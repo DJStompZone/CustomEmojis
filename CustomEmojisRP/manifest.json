@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Custom Emojis by MRBBATES1",
-        "name": "Custom Emojis by MRBBATES1",
-        "uuid": "f9eab80d-3f04-4e5b-8134-e42e6b9b8552",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 17, 0 ]
+        "description": "§4Custom §5StompZone §6Emojis",
+        "name": "§4Custom §5StompZone §6Emojis",
+        "uuid": "b80873ac-118f-4b20-97d6-b506f8fa285d",
+        "version": [1, 0, 5],
+        "min_engine_version": [ 1, 19, 0 ]
     },
     "modules": [
         {
-            "description": "Custom Emojis by MRBBATES1",
+            "description": "§4Custom §5StompZone §6Emojis",
             "type": "resources",
-            "uuid": "62e9b970-4632-46e0-8e99-3f4a17be67d7",
-            "version": [0, 0, 1]
+            "uuid": "d499b096-c03d-4856-b33a-a349f9b52ca8",
+            "version": [1, 0, 5]
         }
     ]
 }
